@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<br>
 
-  <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemok96&show_icons=true&theme=radical)
 
 
